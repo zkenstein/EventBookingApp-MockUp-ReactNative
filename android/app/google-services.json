@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48104674599",
+    "firebase_url": "https://klsc-app.firebaseio.com",
+    "project_id": "klsc-app",
+    "storage_bucket": "klsc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48104674599:android:52e80a52fa150925",
+        "android_client_info": {
+          "package_name": "com.klsc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48104674599-h5ne408rfj37d8m18bk1btccsl5jnbjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78Pu25hGEP8v59h3APlYBivqYNf1cxpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48104674599-h5ne408rfj37d8m18bk1btccsl5jnbjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

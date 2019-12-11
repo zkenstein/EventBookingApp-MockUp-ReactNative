@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "5f35e07ebfeb3829fb352790ebb75bd4",
+      "css": "ticketicon",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M577.1 329.4V73.3A52.4 52.4 0 0 0 524.3 20.6H380.2A81.6 81.6 0 1 1 217.3 20.6H73.2A52.4 52.4 0 0 0 20.6 73.3V330A38.2 38.2 0 0 1 59 368.4 37.3 37.3 0 0 1 20.6 405.6V926.7A52.9 52.9 0 0 0 73.3 979.4H217.4A81.6 81.6 0 0 1 380.5 979.4H524.7A52.9 52.9 0 0 0 577.4 926.7V405.6A38.2 38.2 0 0 1 539 367.2 37.8 37.8 0 0 1 577.1 329.4Z",
+        "width": 598
+      },
+      "search": [
+        "ticketicon"
+      ]
+    }
+  ]
+}

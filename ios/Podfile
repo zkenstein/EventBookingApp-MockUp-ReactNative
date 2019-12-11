@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'klsc_app' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for klsc_app
+
+pod 'Firebase/Core'
+pod 'GoogleIDFASupport'
+
+  
+
+  target 'klsc_appTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'klsc_app-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for klsc_app-tvOS
+
+  target 'klsc_app-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
